@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MuWFL8wjr0qiQqQajG4pjg" Reference="9gCPFtxwPEib0nvbvV420Q/THqLufNtmkeg67C_yvWP1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="295, 189, 295, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[&quot;&lt;wnd ctrlid='1121' title='ERP 업로드 양식&quot; + Today + &quot;'  /&gt;&lt;wnd cls='DirectUIHWND' /&gt;&lt;ctrl name='항목 보기' role='list' /&gt;&lt;ctrl automationid='0' /&gt;&lt;ctrl automationid='System.ItemNameDisplay' /&gt;&quot;]" Guid="810faf45-c13d-406e-ac03-aa8b301af018" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='#32770' title='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="52" Y="-8" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="bb89eb21669b86703adb1723d601149e.jpg" xmlns="">0p7_nm9Rz-Eeh0Y3DFbQyEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

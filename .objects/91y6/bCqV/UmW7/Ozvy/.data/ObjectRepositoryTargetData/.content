@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2a-i2vUfTE2I9GLn7PpI0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/main/main" DesignTimeRectangle="351, 514, 69, 27" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='loginBtn' tag='A' /&gt;" Guid="bdc02ac6-2615-4ef2-9234-bf62c954f266" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='loginTarget' title='롯데이노베이트 SCM 포털' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="073cb18c859a278ee20f24367714a970.jpg" xmlns="">0r3TQFnjaB0qaksYfxjd_hw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

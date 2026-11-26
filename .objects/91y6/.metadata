@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome 롯데이노베이트 SCM 포털",
+  "Type": "App",
+  "Id": "91y6j6_kuken0ykykwt14A",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/91y6j6_kuken0ykykwt14A",
+  "Created": "2026-06-12T05:01:00.0191264Z",
+  "Updated": "2026-06-12T05:01:00.0191264Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

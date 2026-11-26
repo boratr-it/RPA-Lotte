@@ -1,0 +1,13 @@
+﻿{
+  "Name": "유통SCM",
+  "Type": "Element",
+  "Id": "H2MUqlYraUO-XB0MSSSjsw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/H2MUqlYraUO-XB0MSSSjsw",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/OSdfTwpanESxpZDzROnYxg",
+  "Created": "2026-06-16T05:04:02.1680448Z",
+  "Updated": "2026-06-16T05:04:02.1680448Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

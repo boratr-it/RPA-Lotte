@@ -1,0 +1,12 @@
+﻿{
+  "Name": "20260624140428  -  호환성 모드 - Excel",
+  "Type": "App",
+  "Id": "RDXyUmpdmUy8VN2jZCOqdw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/RDXyUmpdmUy8VN2jZCOqdw",
+  "Created": "2026-06-24T05:19:45.6914346Z",
+  "Updated": "2026-06-24T05:19:45.6914346Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

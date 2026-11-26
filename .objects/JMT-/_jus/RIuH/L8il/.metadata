@@ -1,0 +1,14 @@
+﻿{
+  "Name": "(ERP양식)구분",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "L8il20-IVEWlHBe5RvRucw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/L8il20-IVEWlHBe5RvRucw",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-22T05:54:55.2923829Z",
+  "Updated": "2026-06-22T05:54:55.2923829Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

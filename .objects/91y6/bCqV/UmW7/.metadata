@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 롯데이노베이트 SCM 포털",
+  "Type": "Screen",
+  "Id": "UmW7ES0YUkO1KeyguUpE_w",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/UmW7ES0YUkO1KeyguUpE_w",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/bCqV7IDH7U-Vvpo7Oc5SWA",
+  "Created": "2026-06-12T05:01:00.0682783Z",
+  "Updated": "2026-06-12T05:01:00.0682783Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

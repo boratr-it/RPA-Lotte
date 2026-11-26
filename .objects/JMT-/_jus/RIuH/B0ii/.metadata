@@ -1,0 +1,14 @@
+﻿{
+  "Name": "graphic win_Close_Image",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "B0ii2Rws6Em2BhriStKICg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/B0ii2Rws6Em2BhriStKICg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-30T02:22:11.4717951Z",
+  "Updated": "2026-06-30T02:22:11.4717951Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

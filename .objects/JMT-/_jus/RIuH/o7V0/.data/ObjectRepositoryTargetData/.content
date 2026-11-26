@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U3QkLb35lUqm_DETR7pTUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="-1, 2, 235, 27" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='DropDown' role='popup menu' /&gt;&lt;ctrl name='데이터 변환' role='menu item' /&gt;" Guid="10c360a9-517d-4ed8-9bed-995194b678d6" ScopeSelectorArgument="&lt;wnd aaname='DropDown' app='neoweb.exe' cls='WindowsForms10.Window.*' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8c60307cb2f92db3e6f5518a5cd9e930.jpg" xmlns="">0Cq4fIcntUUWcP68ymjD84Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

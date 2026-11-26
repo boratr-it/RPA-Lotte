@@ -1,0 +1,14 @@
+﻿{
+  "Name": "단가유형",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "bt9NPxLCLEOvJfoLZDuL1A",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/bt9NPxLCLEOvJfoLZDuL1A",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-30T05:40:47.8658795Z",
+  "Updated": "2026-06-30T05:40:47.8658795Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

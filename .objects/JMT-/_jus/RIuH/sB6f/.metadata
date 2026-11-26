@@ -1,0 +1,14 @@
+﻿{
+  "Name": "BORATR(2)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sB6f0zrSLEqVgfQACHTJ-Q",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/sB6f0zrSLEqVgfQACHTJ-Q",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-24T01:32:19.799403Z",
+  "Updated": "2026-06-24T01:32:19.799403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

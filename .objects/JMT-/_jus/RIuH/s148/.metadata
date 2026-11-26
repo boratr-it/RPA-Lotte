@@ -1,0 +1,14 @@
+﻿{
+  "Name": "엑셀자료의 거래처별 단가에 불일치하는 항목…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "s148z1_MzUWhCjsgzdV9QA",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/s148z1_MzUWhCjsgzdV9QA",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-26T06:55:56.7753628Z",
+  "Updated": "2026-06-26T06:55:56.7753628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

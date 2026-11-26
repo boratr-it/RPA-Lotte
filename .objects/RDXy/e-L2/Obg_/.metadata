@@ -1,0 +1,13 @@
+﻿{
+  "Name": "20260624151747  -  호환성 모드 - Excel",
+  "Type": "Screen",
+  "Id": "Obg_0ZdAk0-17ykqD0a8mg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Obg_0ZdAk0-17ykqD0a8mg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/e-L2tvv6gUWiQG1IwXK28w",
+  "Created": "2026-06-24T06:22:50.4092587Z",
+  "Updated": "2026-06-24T06:22:50.4092587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

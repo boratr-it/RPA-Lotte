@@ -1,0 +1,14 @@
+﻿{
+  "Name": "저장되었습니다. 저장된 데이터는 수주관리에…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Lah3J_--OkWHHik7dLbeQw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Lah3J_--OkWHHik7dLbeQw",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-26T07:36:29.6565985Z",
+  "Updated": "2026-06-26T07:36:29.6565985Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

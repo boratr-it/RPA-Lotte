@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RXeFeuRxwkaayI1PZqbzGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="86, 173, 83, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl automationid='btn_Yes' role='push button' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='예' /&gt;" Guid="5c7cd660-c438-4298-a774-c98cad1ed94c" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='프로그램 종료' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="113, 175, 28, 29" ElementType="Text" FuzzySelectorArgument="&lt;ctrl automationid='btn_Yes' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;&lt;ctrl automationid='btn_Cancel_Text' role='text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='예' /&gt;" Guid="8df28ce3-c0cd-4110-9136-4b7eff08e08c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f72eb0eddd4f89c04a677cb7d5220e40.jpg" xmlns="">0aVW1V4hDLEO1wMa78XM8JA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

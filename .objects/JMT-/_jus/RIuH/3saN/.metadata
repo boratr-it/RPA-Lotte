@@ -1,0 +1,14 @@
+﻿{
+  "Name": "수주형태",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "3saNSx1ClUCSeLa5RlvyGQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/3saNSx1ClUCSeLa5RlvyGQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-24T01:41:47.1743179Z",
+  "Updated": "2026-06-24T01:41:47.1743179Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

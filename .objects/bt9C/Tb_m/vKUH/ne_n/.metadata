@@ -1,0 +1,13 @@
+﻿{
+  "Name": "유통 SCM - Chrome",
+  "Type": "Element",
+  "Id": "ne_nL7OvrE-eHZonJtsx9Q",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/ne_nL7OvrE-eHZonJtsx9Q",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/vKUHuJKYzkKz-GlrrIK_cA",
+  "Created": "2026-06-16T00:40:46.3415706Z",
+  "Updated": "2026-06-16T00:40:46.3415706Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

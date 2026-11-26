@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I94l5S9ah0Si_0LQDGktZQ" Reference="9gCPFtxwPEib0nvbvV420Q/TTTQ5A4Rd0-c37HUzeIeyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/scm/main/main" DesignTimeRectangle="291, 437, 124, 26" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl src='/scm/buga/orderInfo/storeOrders' tag='IFRAME' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='DIV' /&gt;" Guid="fdf65f8e-f2c6-415a-a0cd-d905f59a079b" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='scmWeb' title='유통 SCM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="8b869c29b44e1e922a65f3d1fd065fe2.jpg" xmlns="">0jD_vas_MwUCD4VzR4peUgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

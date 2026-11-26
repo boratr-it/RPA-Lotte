@@ -1,0 +1,16 @@
+﻿{
+  "Name": "ERP iU",
+  "Type": "Screen",
+  "Id": "RIuHE2l0Mkq6gERGhp5ing",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/_jus64tVPka-tI9jmTEk2Q",
+  "Created": "2026-06-22T01:10:13.6397161Z",
+  "Updated": "2026-06-22T01:10:56.276257Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

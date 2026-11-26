@@ -1,0 +1,14 @@
+﻿{
+  "Name": "확인(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "j_rXxGInNUS4jVuwtnbkxg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/j_rXxGInNUS4jVuwtnbkxg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-07-16T01:37:03.7490694Z",
+  "Updated": "2026-07-16T01:37:03.7490694Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

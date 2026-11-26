@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6lUZ2JDinkyO21_66NavtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/main/main" DesignTimeRectangle="197, 630, 377, 50" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='loginBtn' tag='SPAN' /&gt;" Guid="c504c549-8ad2-4861-8877-eab3c5212bb3" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='loginTarget' title='롯데이노베이트 SCM 포털' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e32a53b2ef36871ca55ebb02e8349fc.jpg" xmlns="">0whRrDPD52U-V1s3MBpMArg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

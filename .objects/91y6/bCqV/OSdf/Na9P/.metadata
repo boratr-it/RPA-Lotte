@@ -1,0 +1,13 @@
+﻿{
+  "Name": "로그아웃",
+  "Type": "Element",
+  "Id": "Na9P5T8fR0iFEdZrYv6JrQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Na9P5T8fR0iFEdZrYv6JrQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/OSdfTwpanESxpZDzROnYxg",
+  "Created": "2026-06-30T02:18:43.121704Z",
+  "Updated": "2026-06-30T02:18:43.121704Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

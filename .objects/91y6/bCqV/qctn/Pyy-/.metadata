@@ -1,0 +1,14 @@
+﻿{
+  "Name": "주식회사 씨21_매입처별주문정보__2026…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Pyy-hlp6hkm87czZueG2Qg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Pyy-hlp6hkm87czZueG2Qg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/qctnzz5oxU-nLaVE-DzwTQ",
+  "Created": "2026-06-16T07:00:34.4741554Z",
+  "Updated": "2026-06-16T07:00:34.4741554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

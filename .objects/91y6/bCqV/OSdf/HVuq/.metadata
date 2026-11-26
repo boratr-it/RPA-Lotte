@@ -1,0 +1,13 @@
+﻿{
+  "Name": "문서관리 물류관리 부가정보 업무지원 커뮤니…",
+  "Type": "Element",
+  "Id": "HVuqrt-RPUWjcdRpgCPDUQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/HVuqrt-RPUWjcdRpgCPDUQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/OSdfTwpanESxpZDzROnYxg",
+  "Created": "2026-06-16T00:41:35.1319534Z",
+  "Updated": "2026-06-16T00:41:35.1319534Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

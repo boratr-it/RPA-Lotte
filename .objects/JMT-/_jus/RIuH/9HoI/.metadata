@@ -1,0 +1,13 @@
+﻿{
+  "Name": "엑셀출력(화면)",
+  "Type": "Element",
+  "Id": "9HoIh2p-O0Oo4qBoRqGrNA",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/9HoIh2p-O0Oo4qBoRqGrNA",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-23T05:24:55.4797751Z",
+  "Updated": "2026-06-23T05:24:55.4797751Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iVnnPvc6ekmcv2Ov2OREgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/main/main" DesignTimeRectangle="8, 0, 672, 273" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='비밀번호 변경 안내 - Chrome - 효빈' role='pane' /&gt;&lt;ctrl idx='2' role='pane' /&gt;" Guid="49d542f0-2d0e-434a-b8ec-f57eb0c43f98" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='비밀번호 변경 안내 - Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopRight" X="-26" Y="17" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="6403c3107558ce334c09e0e972866288.jpg" xmlns="">0k3VBjbWFwEGb_841nng5Wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

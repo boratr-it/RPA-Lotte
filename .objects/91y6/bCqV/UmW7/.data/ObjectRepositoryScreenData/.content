@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="U9F14SJLJEmGXejebKiOYg" Reference="9gCPFtxwPEib0nvbvV420Q/UmW7ES0YUkO1KeyguUpE_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="I4HC-igXOEyAf6sJYW9Acw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEfSURBVDhP7ZFNSgNBFISTQNbiQjCdx4zpKTNkEuNPCKILF+4TCaiJv2DAnTfwCOpF9Bq5gd6iu2RmkWWItHQWDvEEWlD0o+ujeHQXCv9aKlOpla2gx939D7a777Ya9YzS5Tz3q4zSXepkkp1dzdLBcMagPnF3eW6p0jAuGqUvWWswG93Os+H1nGjRKH3hsjy/VEZpMIzf0v7pNLsZTz87h69mLUCe+xYFJe/iwnZ9o8SgnnCz9cxk78mimdjVyg9mYVfQoWCbgsjPLQoSW41gq1FolV6hoEHBEQVbfo4dQ4FyBQ8U3FPQp+CRgjsKRhSc0P2E4ICCMQUv/jz3HrjMFRx7KPQlOxQEFLQpaFIACmo+c9u5zG3qNg7zT/IX9QVabof5P0BrZQAAAABJRU5ErkJggg==" Reference="9gCPFtxwPEib0nvbvV420Q/UmW7ES0YUkO1KeyguUpE_w" Selector="&lt;html app='chrome.exe' htmlwindowname='loginTarget' title='롯데이노베이트 SCM 포털' /&gt;" Url="https://www.lcn.co.kr/session/login" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="cf0703554cc038551438e540441a0bd8.jpg" xmlns="">0oKWt0TOEyEStwlWmLqRVYw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

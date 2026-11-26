@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f8i9T6uze0KyvZTESTYpNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="10, 187, 453, 30" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='영업관리' role='grouping' /&gt;&lt;ctrl name='Duzon.SmartIU.Container.Controls.ResultItem' role='list item' /&gt;" Guid="5cc5d4cc-f84b-4adb-987c-19a6be126f49" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' idx='*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fac5c0f252d93616bcc1bff4f00f9e01.jpg" xmlns="">0rE-MLRvOZ0edAjZQyDAiZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "담당자",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "PbsAzHV1YEK4n07wzqgFbg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/PbsAzHV1YEK4n07wzqgFbg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-24T01:40:53.3544611Z",
+  "Updated": "2026-06-24T01:40:53.3544611Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

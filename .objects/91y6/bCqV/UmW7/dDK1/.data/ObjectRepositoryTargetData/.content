@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="i0Btc43IrEa4INrmBCPWZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/main/main" DesignTimeRectangle="1882, 8, 46, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='롯데이노베이트 SCM 포털 - Chrome*' role='pane' /&gt;&lt;ctrl name='닫기' role='push button' /&gt;" Guid="265cbe5d-0998-4e45-80ca-077bb7db4a0a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADIAAAAiCAYAAAAd6YoqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADLSURBVFhH7dQ9C8IwEMbxfv9FxdeK6BfSgi+gDk5ODi5m6xJ5AoHSRIXoUy5yw3+5LPeDXotysbI5Z4xxFZfrzeacQqSlEGkpRFoKkZZCPtUbTu1mdwrmPrz1R7NgnhoNgkWBqQ7n4A2zwbiMvqVGg6AYhoFAVAhqYlgIRIeg9fbo7gGId3fzTZ1AsPxkvnRlC2l+TrGb+VVUSOwmWBgaJIbwMTA0iDvs/etF/Q+gPU+NBuk6hUhLIdJSiLQUIq3/g9wftc05hUjLQ565JTCA3e1MFwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='비밀번호 변경 안내 - Chrome' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e262524c8c766b7546ba92fb4e0dbaaa.jpg" xmlns="">0jAdq6pFzbE-KjGSzVt4R2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

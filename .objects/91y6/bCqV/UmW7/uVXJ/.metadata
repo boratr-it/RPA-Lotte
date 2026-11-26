@@ -1,0 +1,13 @@
+﻿{
+  "Name": "비밀번호 변경 안내 - Chrome",
+  "Type": "Element",
+  "Id": "uVXJDCJQIUm6sELowXU-ZQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/uVXJDCJQIUm6sELowXU-ZQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/UmW7ES0YUkO1KeyguUpE_w",
+  "Created": "2026-06-16T01:05:04.1596657Z",
+  "Updated": "2026-06-16T01:05:04.1596657Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

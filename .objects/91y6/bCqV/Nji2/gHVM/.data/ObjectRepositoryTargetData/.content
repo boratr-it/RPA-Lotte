@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LGaRJqulRkqgb-60HgGp8Q" Reference="9gCPFtxwPEib0nvbvV420Q/gHVMOQ3ZE0Ct3jdni2P8kw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/scm/community/notice/noticeDetail" DesignTimeRectangle="34, 592, 165, 27" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='inp_group' tag='DIV' /&gt;" Guid="4d485fce-89fa-4ce4-8965-a2a765ab4161" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.lcn.co.kr/scm/community/notice/noticeDetail*' title='유통 SCM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1111973f3b999b1ed1d8274cf854880c.jpg" xmlns="">0uZTVY_U9CUGVPDwFzhzYlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

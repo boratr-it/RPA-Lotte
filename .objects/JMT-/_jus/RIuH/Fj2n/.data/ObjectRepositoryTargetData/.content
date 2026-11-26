@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tWwzqXynJUqRpHLwVPVUzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1640, 304, 98, 24" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='P_SA_Z_BRTR_SO_BATCH' /&gt;&lt;wnd ctrlname='mDataArea' /&gt;&lt;wnd ctrlname='_tlayMain' /&gt;&lt;wnd ctrlname='m_pnlGrid' /&gt;&lt;wnd ctrlname='splitContainer1' /&gt;&lt;wnd ctrlname='flowLayoutPanel2' /&gt;&lt;wnd ctrlname='btn_Excel' /&gt;" Guid="4e1c6750-a962-4758-b353-32cbe0163535" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="32d870b50b02295c63298eefda7056ba.jpg" xmlns="">01H94RA_51k2pYqtqDtlBZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

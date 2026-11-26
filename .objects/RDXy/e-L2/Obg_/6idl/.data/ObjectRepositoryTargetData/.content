@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CUNOzcUHm0aRnXl31u8Eiw" Reference="9gCPFtxwPEib0nvbvV420Q/6idlZ2NWD06ac3bqhgZnDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="43, 299, 112, 22" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia automationid='Grid' cls='XLSpreadsheetGrid' name='눈금' /&gt;&lt;uia automationid='A1' cls='XLSpreadsheetCell' name='A1' tableRow='1' /&gt;" Guid="d0725631-0f84-47c1-b291-b4decb0a31e0" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='2026*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c181dbc0f76f9e768c05101dd5bc72fd.jpg" xmlns="">00Pb8VHkK6UKlxt3UZEj0xA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

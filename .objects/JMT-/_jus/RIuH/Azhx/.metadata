@@ -1,0 +1,14 @@
+﻿{
+  "Name": "엑셀업로드",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Azhx8dV49EisWnOioD0nHg",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Azhx8dV49EisWnOioD0nHg",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-22T05:55:19.6700851Z",
+  "Updated": "2026-06-22T05:55:19.6700851Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

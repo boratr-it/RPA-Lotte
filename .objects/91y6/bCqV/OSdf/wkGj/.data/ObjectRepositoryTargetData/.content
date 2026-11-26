@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pMC8iPFt0k-jp-AKEsp-UA" Reference="9gCPFtxwPEib0nvbvV420Q/wkGjCgWGOUql-DCaqLUJ7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/main/main" DesignTimeRectangle="57, 730, 130, 28" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" Guid="99d7d5dd-a80c-4d12-8fa9-6940db253a68" ScopeSelectorArgument="&lt;html app='chrome.exe' title='유통 SCM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f68a14505c6a8e56d236ee8dd2fe1a13.jpg" xmlns="">0ks-eRQEdIkCdxo4iht9IwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3QfHAnL3LkCD0SiYg8Rqew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="0, 0, 960, 540" ElementVisibilityArgument="Interactive" Guid="25f53377-778b-47b9-bbfb-544e3ba2f06c" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='#32770' title='열기' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3018fb2cbce2242874ac8740e48bddb6.jpg" xmlns="">05SkJhy71J0apAZ7MufGhTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

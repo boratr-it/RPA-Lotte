@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WqFiIYYpmkeN0UAJwlEieg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="993, 261, 98, 24" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='P_MA_Z_BRTR_MLS_CVT' /&gt;&lt;wnd ctrlname='mDataArea' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' /&gt;&lt;wnd ctrlname='splitContainer1' /&gt;&lt;wnd ctrlname='tabControl1' /&gt;&lt;wnd ctrlname='tab1' /&gt;&lt;wnd ctrlname='tableLayoutPanel3' /&gt;&lt;wnd ctrlname='oneGrid2' /&gt;&lt;wnd ctrlname='oneGridItem1' /&gt;&lt;wnd cls='WindowsForms10.BUTTON.*' title='엑셀업로드' /&gt;" Guid="1ee48e67-fd6f-4b01-97ad-1d4a1a9f6b07" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3be09fd50b2b7b4c3317905c7a9769c5.jpg" xmlns="">0PSVa8o6nl0uW8Nj9mUVuqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

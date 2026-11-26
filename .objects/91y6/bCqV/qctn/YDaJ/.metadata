@@ -1,0 +1,14 @@
+﻿{
+  "Name": "저장(&S)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YDaJBKc0UkqMpxEjYDd7xA",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/YDaJBKc0UkqMpxEjYDd7xA",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/qctnzz5oxU-nLaVE-DzwTQ",
+  "Created": "2026-06-16T07:04:00.6294674Z",
+  "Updated": "2026-06-16T07:04:00.6294674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

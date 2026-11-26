@@ -1,0 +1,13 @@
+﻿{
+  "Name": "주소 D롯데마트",
+  "Type": "Element",
+  "Id": "06YzoSgHqUqir5TY8SBWXQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/06YzoSgHqUqir5TY8SBWXQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-10-21T06:36:23.1882361Z",
+  "Updated": "2026-10-21T06:36:23.1882361Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

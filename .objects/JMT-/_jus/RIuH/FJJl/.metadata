@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Duzon.SmartIU.Container…(1)",
+  "Type": "Element",
+  "Id": "FJJljG1sJ0OpEo_3Vm1JQw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/FJJljG1sJ0OpEo_3Vm1JQw",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-24T07:45:38.4333491Z",
+  "Updated": "2026-06-24T07:45:38.4333491Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

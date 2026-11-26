@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT login-groupId",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "bb1gzZHEHkyo_i_yr9qCnQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/bb1gzZHEHkyo_i_yr9qCnQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/UmW7ES0YUkO1KeyguUpE_w",
+  "Created": "2026-06-15T07:14:20.0659642Z",
+  "Updated": "2026-06-15T07:14:20.0659642Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

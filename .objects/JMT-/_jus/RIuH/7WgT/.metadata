@@ -1,0 +1,14 @@
+﻿{
+  "Name": "push button btn_Save",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "7WgTgJCbH0KoTtCDeMfLlQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/7WgTgJCbH0KoTtCDeMfLlQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-07-10T09:00:04.3327158Z",
+  "Updated": "2026-07-10T09:00:04.3327158Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

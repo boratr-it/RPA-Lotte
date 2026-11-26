@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ziDo7fM3HEWf-OqYTqUqYw" Reference="9gCPFtxwPEib0nvbvV420Q/Pyy-hlp6hkm87czZueG2Qg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/scm/main/main" DesignTimeRectangle="190, 48, 1216, 44" ElementType="Toolbar" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd aaname='로드 중' cls='msctls_progress32' /&gt;&lt;wnd ctrlid='1001' title='주소: 바탕 화면' /&gt;" Guid="349b158f-cc64-4427-b453-9f7fbaa0eb92" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='다른 이름으로 저장' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopLeft" X="155" Y="18" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="961ebe50e6cdfb4cbc47112038bf6b2c.jpg" xmlns="">07lXrU-sCrkORdxTnWSCdaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

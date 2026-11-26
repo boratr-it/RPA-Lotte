@@ -1,0 +1,14 @@
+﻿{
+  "Name": "모듈",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "wrwOJPUj_EeUqOhudZuCuQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/wrwOJPUj_EeUqOhudZuCuQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-07-09T06:15:39.6434529Z",
+  "Updated": "2026-07-09T06:15:39.6434529Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

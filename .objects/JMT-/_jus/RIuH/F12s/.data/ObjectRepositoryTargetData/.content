@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qac4PjrjFkaLvEGuCl_ODQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="963, 263, 19, 23" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='P_MA_Z_BRTR_MLS_CVT' /&gt;&lt;wnd ctrlname='mDataArea' /&gt;&lt;wnd ctrlname='tableLayoutPanel1' /&gt;&lt;wnd ctrlname='splitContainer1' /&gt;&lt;wnd ctrlname='tabControl1' /&gt;&lt;wnd ctrlname='tab1' /&gt;&lt;wnd ctrlname='tableLayoutPanel3' /&gt;&lt;wnd ctrlname='oneGrid2' /&gt;&lt;wnd ctrlname='oneGridItem1' /&gt;&lt;wnd ctrlname='bpPanelControl4' /&gt;&lt;wnd aaname='(ERP양식)구분' cls='WindowsForms10.COMBOBOX.*' /&gt;&lt;ctrl name='(ERP양식)구분' role='combo box' /&gt;&lt;ctrl name='열기' role='push button' /&gt;" Guid="017ab465-a869-4b7f-81d3-23998b8b4e87" ScopeSelectorArgument="&lt;wnd app='neoweb.exe' cls='HwndWrapper*' title='ERP iU' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="073a37a49be5700f3552a1b0538310c8.jpg" xmlns="">0N5gGUxyebEi6vy03JZt7_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

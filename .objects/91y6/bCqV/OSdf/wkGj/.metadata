@@ -1,0 +1,14 @@
+﻿{
+  "Name": "닫기(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wkGjCgWGOUql-DCaqLUJ7g",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/wkGjCgWGOUql-DCaqLUJ7g",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/OSdfTwpanESxpZDzROnYxg",
+  "Created": "2026-06-15T08:46:09.7525435Z",
+  "Updated": "2026-06-15T08:46:09.7525435Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

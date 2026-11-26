@@ -1,0 +1,14 @@
+﻿{
+  "Name": "부가정보",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "WFM1xVDd_kO3Zw1MM0nI9g",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/WFM1xVDd_kO3Zw1MM0nI9g",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/kor6hmFYE0mfexuFLGEtOw",
+  "Created": "2026-06-12T05:09:55.6763135Z",
+  "Updated": "2026-06-12T05:09:55.6763135Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

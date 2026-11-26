@@ -1,0 +1,13 @@
+﻿{
+  "Name": "데이터 변환",
+  "Type": "Element",
+  "Id": "o7V0kWK7g0ebqnlb5pO5ng",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/o7V0kWK7g0ebqnlb5pO5ng",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-23T05:25:16.329152Z",
+  "Updated": "2026-06-23T05:25:16.329152Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

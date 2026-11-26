@@ -1,0 +1,17 @@
+﻿{
+  "Name": "ERP 업로드 양식+Today",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "THqLufNtmkeg67C_yvWP1Q",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/THqLufNtmkeg67C_yvWP1Q",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/RIuHE2l0Mkq6gERGhp5ing",
+  "Created": "2026-06-22T06:30:18.0161988Z",
+  "Updated": "2026-06-22T08:35:18.5012637Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

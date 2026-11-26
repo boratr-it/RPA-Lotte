@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 유통 SCM",
+  "Type": "Screen",
+  "Id": "kor6hmFYE0mfexuFLGEtOw",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/kor6hmFYE0mfexuFLGEtOw",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/bCqV7IDH7U-Vvpo7Oc5SWA",
+  "Created": "2026-06-12T05:09:45.8333605Z",
+  "Updated": "2026-06-12T05:09:45.8333605Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

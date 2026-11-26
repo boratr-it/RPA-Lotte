@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GAFxcg7KWEiMH3VIo6orTw" Reference="9gCPFtxwPEib0nvbvV420Q/HQpC0smlF0yIdqTgS7qFjw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lcn.co.kr/scm/community/notice/noticeDetail" DesignTimeRectangle="57, 592, 130, 28" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='오늘 하루 열지않기' /&gt;" Guid="edbdd050-017b-41c2-8b75-26995c0fb0b9" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.lcn.co.kr/scm/community/notice/noticeDetail*' title='유통 SCM' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e465ed027a0619ce503d84bcabf657f.jpg" xmlns="">0TjWbFLpI_EGeGjCrzlkZnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

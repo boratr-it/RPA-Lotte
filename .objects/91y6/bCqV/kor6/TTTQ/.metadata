@@ -1,0 +1,13 @@
+﻿{
+  "Name": "김해상온센타D204거제점26452026.0…",
+  "Type": "Element",
+  "Id": "TTTQ5A4Rd0-c37HUzeIeyQ",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/TTTQ5A4Rd0-c37HUzeIeyQ",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/kor6hmFYE0mfexuFLGEtOw",
+  "Created": "2026-06-19T03:11:05.7435653Z",
+  "Updated": "2026-06-19T03:11:05.7435653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

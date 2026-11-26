@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Checkbox(1)'",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "Mo9829p-lU6B-eyOzoSmLA",
+  "Reference": "9gCPFtxwPEib0nvbvV420Q/Mo9829p-lU6B-eyOzoSmLA",
+  "ParentRef": "9gCPFtxwPEib0nvbvV420Q/Nji2_znnHkKPViyUJU3pXQ",
+  "Created": "2026-06-16T04:50:59.3883453Z",
+  "Updated": "2026-06-16T04:50:59.3883453Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
